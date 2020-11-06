@@ -13,7 +13,7 @@ provided in the resources section to learn more.
 
 In this lab, you'll be working on two components — two buttons, to be more
 precise. These aren't just regular buttons, however! They both serve a very
-specific purpose.
+specific purpose. 
 
 ## Instructions
 
